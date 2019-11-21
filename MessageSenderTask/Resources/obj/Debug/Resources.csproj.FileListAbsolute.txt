@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\MessageSenderTask\Resources\bin\Debug\Resources.dll
+C:\Users\Lenovo\Desktop\MessageSenderTask\Resources\bin\Debug\Resources.pdb
+C:\Users\Lenovo\Desktop\MessageSenderTask\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MessageSenderTask\Resources\obj\Debug\Resources.dll
+C:\Users\Lenovo\Desktop\MessageSenderTask\Resources\obj\Debug\Resources.pdb
+C:\Users\Lenovo\Desktop\MessageSenderTask\Resources\obj\Debug\Resources.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\MessageSenderTask\EmailValidation\bin\Debug\EmailValidation.dll
+C:\Users\Lenovo\Desktop\MessageSenderTask\EmailValidation\bin\Debug\EmailValidation.pdb
+C:\Users\Lenovo\Desktop\MessageSenderTask\EmailValidation\obj\Debug\EmailValidation.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\MessageSenderTask\EmailValidation\obj\Debug\EmailValidation.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MessageSenderTask\EmailValidation\obj\Debug\EmailValidation.dll
+C:\Users\Lenovo\Desktop\MessageSenderTask\EmailValidation\obj\Debug\EmailValidation.pdb

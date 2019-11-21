@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="MessageSenderTask.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+     <link rel="stylesheet" href="~/wwwroot/css/style.css">
+    <link rel="stylesheet" href="~/wwwroot/css/Default.css">
+    <link rel="stylesheet" href="wwwroot/css/Default.css">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+            <div>
+             <header>
+               <div class="logo">
+                <a href="#">
+                  <span class="use">
+                      <asp:Label ID="lblLogo" runat="server" ></asp:Label>
+                  </span>
+                  <span class="web">
+                      <asp:Label ID="lblSender" runat="server" ></asp:Label>
+                  </span>
+                </a>   
+               <p>
+                   <asp:Label ID="lblCredo" runat="server" ></asp:Label>
+               </p>    
+               </div>
+             </header> 
+             <div class="container">
+            <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server">
+            </asp:ContentPlaceHolder>
+             </div>
+            <footer>
+                <i> 
+                    <asp:Label ID="lblFooter" runat="server"></asp:Label>
+                </i>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>

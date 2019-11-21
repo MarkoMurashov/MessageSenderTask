@@ -1,0 +1,115 @@
+﻿.emailInput {
+    max-width: 60%;
+    font-size: 16px;
+}
+.container {
+    font-size: 25px;
+    background-image: url("sender.jpg");
+    background-size: cover;
+}
+.container * {
+  display: block;
+  padding-bottom: 3%;
+  padding-right: 3%;
+  padding-top: 3%;
+}
+
+.mainForm {
+    width: 20%;
+    height: auto;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    min-height: 400px;
+    display: inline-block;
+    background-color: white;
+    opacity: 0.9;
+    border-radius: 10px;
+    border: 3px solid #BADA55;
+}
+.messageInput {
+    font-size: 16px;
+    width: 100%;
+}
+
+.btnSend {
+    margin-top: 6%;
+    float: right;
+    font-size: 25px;
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.btnBack {
+    margin-top: 6%;
+    float: right;
+    font-size: 25px;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/*====================================*/
+
+header {
+    padding-left: 20%;
+    height: 80px;
+    background-color: white;
+    color: black;
+}
+
+.logo {
+    width: 300px;
+    float: left;
+    height: 100px;
+}
+
+    .logo a {
+        display: block;
+        margin-left: 15px;
+        margin-top: 10px;
+        font-family: "Exo2-Bold", sans-serif;
+        font-size: 28px;
+        color: #b2aeb2;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+.use {
+    color: #aa064b;
+}
+
+.web {
+    color: black;
+}
+
+.logo p {
+    margin-left: 20px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+    font-family: "Exo2-Medium", sans-serif;
+    font-size: 13px;
+    color: black;
+}
+/*====================================*/
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    font-size: 20px;
+}
